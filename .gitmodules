@@ -1,0 +1,3 @@
+[submodule "GenerativeVideo2Text"]
+	path = GenerativeVideo2Text
+	url = git@github.com:dong03/GenerativeVideo2Text.git
